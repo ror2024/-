@@ -1,0 +1,35 @@
+﻿IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
+64.181.240.173,443,true,SJC,North America,San Jose,182 ms,4348 kB/s
+141.145.205.115,8443,true,CDG,Europe,Paris,273 ms,4321 kB/s
+89.168.83.143,8443,true,FRA,Europe,Frankfurt,299 ms,3890 kB/s
+84.235.169.234,443,true,AMS,Europe,Amsterdam,293 ms,3055 kB/s
+192.9.137.193,8443,true,SJC,North America,San Jose,199 ms,2642 kB/s
+141.148.229.106,443,true,AMS,Europe,Amsterdam,314 ms,2377 kB/s
+164.152.26.70,2052,true,ORD,North America,Chicago,237 ms,2115 kB/s
+40.233.70.7,8443,true,YYZ,North America,Toronto,250 ms,2073 kB/s
+89.168.68.57,2053,true,FRA,Europe,Frankfurt,303 ms,2066 kB/s
+164.152.26.70,2086,true,ORD,North America,Chicago,236 ms,1881 kB/s
+158.101.199.249,8443,true,AMS,Europe,Amsterdam,290 ms,1730 kB/s
+158.178.153.80,2096,true,AMS,Europe,Amsterdam,289 ms,1679 kB/s
+130.61.23.77,443,true,FRA,Europe,Frankfurt,252 ms,1267 kB/s
+132.226.163.224,8443,true,GRU,South America,São Paulo,357 ms,739 kB/s
+144.22.252.124,443,true,GRU,South America,São Paulo,383 ms,544 kB/s
+132.145.54.84,2053,true,LHR,Europe,London,245 ms,451 kB/s
+132.145.54.84,8443,true,LHR,Europe,London,239 ms,358 kB/s
+168.138.141.235,2053,true,GRU,South America,São Paulo,379 ms,317 kB/s
+192.9.180.162,443,true,SYD,Oceania,Sydney,325 ms,262 kB/s
+140.238.158.238,8080,true,YYZ,North America,Toronto,239 ms,185 kB/s
+146.235.59.153,8443,true,GRU,South America,São Paulo,384 ms,147 kB/s
+140.238.158.238,443,true,YYZ,North America,Toronto,235 ms,131 kB/s
+129.213.136.180,443,true,IAD,North America,Ashburn,240 ms,80 kB/s
+129.159.84.71,443,true,IAD,North America,Ashburn,236 ms,67 kB/s
+89.168.43.31,2053,true,CDG,Europe,Paris,264 ms,45 kB/s
+146.235.59.153,2053,true,GRU,South America,São Paulo,384 ms,45 kB/s
+158.179.207.182,8443,true,ARN,Europe,Stockholm,259 ms,0 kB/s
+129.151.198.3,8443,true,ARN,Europe,Stockholm,262 ms,0 kB/s
+129.151.198.3,2053,true,ARN,Europe,Stockholm,268 ms,0 kB/s
+158.179.207.182,2053,true,ARN,Europe,Stockholm,258 ms,0 kB/s
+168.138.184.172,443,true,SIN,Asia Pacific,Singapore,250 ms,0 kB/s
+150.136.87.192,443,true,IAD,North America,Ashburn,240 ms,0 kB/s
+138.2.122.191,443,true,ICN,Asia Pacific,Seoul,145 ms,0 kB/s
+132.145.127.203,8443,true,NRT,Asia Pacific,Tokyo,181 ms,0 kB/s
